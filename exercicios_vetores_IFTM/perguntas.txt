@@ -1,0 +1,19 @@
+1. Faça um programa que:
+❖ Crie um vetor de 4 posições inicializados com valor
+2 em cada uma das posições.
+❖ Atribua os valores 3,4,7,5 a cada posição do vetor,
+respectivamente, um a um.
+❖ Percorra o vetor somando 4 ao valor armazenado
+em cada posição.
+❖ Imprima o vetor com valores atualizados, um valor
+por linha.
+
+2. Faça um programa que peça ao usuário para
+digitar 10 números reais. Ao final imprima
+cada valor na ordem inversa à leitura
+
+3. Você precisa criar um programa que receba a
+matricula e a nota final de 5 alunos. Ao final, o
+programa deve escrever as matrículas dos
+alunos que possuem nota igual ou superior à
+média da classe.
